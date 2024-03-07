@@ -1,0 +1,35 @@
+h3 {
+ font-family: Arial, sans-serif;
+}
+
+
+body {
+   background-color: #1f1f1f; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px; 
+}
+
+.custom-bg-color {
+    background-color: rgba(17, 17, 17, 0.8); /* Dark gray background color with 80% opacity */
+}
+
+.bg-custom-color {
+    background-color: #1f1f1f; /* Slightly lighter gray background color similar to Netflix */
+}
+
+.opacity-row {
+    opacity: 0.8;
+}
+
+.shorter-row {
+    border-width: 90px;
+    center-align: center;
+    align-content: space-evenly;
+}
+
+p{
+  font-family: Georgia, serif;
+}
+
